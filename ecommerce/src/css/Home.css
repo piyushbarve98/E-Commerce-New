@@ -1,6 +1,7 @@
 .wrapper{
     overflow-y: auto;
     overflow-x: hidden;
+    font-family: "Open Sans";
 }
 
 /* navbar css*/
@@ -38,5 +39,6 @@
     font-weight: 600;
     color: black;
     margin: auto 10px;
-    font-size: 10px;
+    font-size: 16px;
 }
+
